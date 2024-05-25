@@ -110,9 +110,9 @@ USERLIST = ["john", "smith", "3121233213", "a@gmail.com"]
 #         print("Only digits are accepted. Please type number e.g 2000")
 
 
-ANSWER = "no"
+# ANSWER = "no"
 
-while ANSWER != "yes":
-    ANSWER = str(input("Are you crazy?:"))
-    if ANSWER == "yes":
-        print("I knew that")
+# while ANSWER != "yes":
+#     ANSWER = str(input("Are you crazy?:"))
+#     if ANSWER == "yes":
+#         print("I knew that")
