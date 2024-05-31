@@ -1,22 +1,19 @@
 #!workspace/bin/python
 
-
-# create function
+# Create function
 def greetings():
     print("Hello World")
 
-
-# share
-# export
-# repeat
+def multiplication(NUMBER1,NUMBER2):
+    print(NUMBER1 * NUMBER2)
 
 
-# list function content
+# # List function content
 # print(dir(greetings))
 
-# call function or execute function
-# greetings()
+    # share
+    # export
+    # repeat
 
-# greetings()
-
+# Call function or execute function
 # greetings()
